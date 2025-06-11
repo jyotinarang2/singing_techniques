@@ -1,0 +1,66 @@
+Musician,Piece,Techniques
+Annotator1(Viviana),all_of_me.xml,vibrato
+Annotator1(Viviana),chandelier.xml,cresc.
+Annotator1(Viviana),closer.xml,"dim., cresc."
+Annotator1(Viviana),despacito.xml,
+Annotator1(Viviana),lost_boy.xml,"dim., dolce"
+Annotator1(Viviana),love_yourself.xml,"cresc., vibrato"
+Annotator1(Viviana),more_than_words.xml,Subito
+Annotator1(Viviana),one_call_away.xml,
+Annotator1(Viviana),rockabye.xml,"cresc., Subito"
+Annotator1(Viviana),say_you_wont_let_go.xml,
+Annotator1(Viviana),seven_years.xml,cresc.
+Annotator1(Viviana),when_i_am_gone.xml,
+Annotator1(Viviana),when_i_was_your_man.xml,cresc.
+Annotator2(Maria),all_of_me.xml,
+Annotator2(Maria),chandelier.xml,
+Annotator2(Maria),closer.xml,
+Annotator2(Maria),despacito.xml,
+Annotator2(Maria),lost_boy.xml,subito p
+Annotator2(Maria),love_yourself.xml,
+Annotator2(Maria),more_than_words.xml,
+Annotator2(Maria),one_call_away.xml,
+Annotator2(Maria),rockabye.xml,
+Annotator2(Maria),say_you_wont_let_go.xml,
+Annotator2(Maria),seven_years.xml,
+Annotator2(Maria),when_i_am_gone.xml,
+Annotator2(Maria),when_i_was_your_man.xml,
+Annotator3(Oriol),all_of_me.xml,cresc.
+Annotator3(Oriol),chandelier.xml,
+Annotator3(Oriol),closer.xml,sotto voce
+Annotator3(Oriol),despacito.xml,"sotto voce, a tempo, rit., a tempo (normal speed again), subito piano, cresc., subito, Acelerando (Speed up)"
+Annotator3(Oriol),lost_boy.xml,
+Annotator3(Oriol),love_yourself.xml,
+Annotator3(Oriol),more_than_words.xml,subito
+Annotator3(Oriol),one_call_away.xml,
+Annotator3(Oriol),rockabye.xml,"rit., con brio, accel., a tempo, molto rit."
+Annotator3(Oriol),say_you_wont_let_go.xml,"<sym>dynamicMezzo</sym>, Legato style, Call-response style"
+Annotator3(Oriol),seven_years.xml,
+Annotator3(Oriol),when_i_am_gone.xml,"dim., cresc., subito"
+Annotator3(Oriol),when_i_was_your_man.xml,"slight swing, sub., dim."
+Annotator4(Claudia),all_of_me.xml,
+Annotator4(Claudia),chandelier.xml,
+Annotator4(Claudia),closer.xml,cresc.
+Annotator4(Claudia),despacito.xml,
+Annotator4(Claudia),lost_boy.xml,
+Annotator4(Claudia),love_yourself.xml,
+Annotator4(Claudia),more_than_words.xml,dim.
+Annotator4(Claudia),one_call_away.xml,
+Annotator4(Claudia),rockabye.xml,
+Annotator4(Claudia),say_you_wont_let_go.xml,
+Annotator4(Claudia),seven_years.xml,cresc.
+Annotator4(Claudia),when_i_am_gone.xml,dim.
+Annotator4(Claudia),when_i_was_your_man.xml,dim.
+Annotator5(Divakar),all_of_me.xml,tremolo
+Annotator5(Divakar),chandelier.xml,"piano range harmony at this bar, Doubling,1 parallel harmony, mixed voice, 2 parallel harmony, creating f, individually mf (mf*3=f), Belting, belting"
+Annotator5(Divakar),closer.xml,"Every male singing is mp, every female is mf, SS creating loudness difference, Higher level mf, Maybe change in pitch + harmony creating loudness change,"
+Annotator5(Divakar),despacito.xml,Maybe lower pf
+Annotator5(Divakar),lost_boy.xml,
+Annotator5(Divakar),love_yourself.xml,"turn, harmony, doubling, parallel harmony(presented only parallel harmony), no change in dynamics"
+Annotator5(Divakar),more_than_words.xml,"lower mf to higher mf, higher mf, Falsetto, Slightly higher p"
+Annotator5(Divakar),one_call_away.xml,mf+ actually
+Annotator5(Divakar),rockabye.xml,"p neutral, p-, p minus, p natural without ss"
+Annotator5(Divakar),say_you_wont_let_go.xml,
+Annotator5(Divakar),seven_years.xml,"Swing, p+"
+Annotator5(Divakar),when_i_am_gone.xml,
+Annotator5(Divakar),when_i_was_your_man.xml,
